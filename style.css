@@ -1,0 +1,122 @@
+body{
+    text-align: center;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.title{
+    background-color: rgb(45, 68, 74);
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    overflow: hidden;
+    padding: 0%;
+    margin-bottom: 10px;
+}
+.title-text h1{
+    color:white;
+    font-family: "Sacramento", cursive;
+    font-weight: bold;
+    font-size: 6rem;
+    margin-top: 10%;
+    margin-bottom: 10px; 
+}
+.title-text h2{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    margin-top: 0;
+}
+.title-image img{
+    max-width: 30%;
+    min-height: 30%;
+}
+.profile img{
+    margin-top: 7%;;
+    max-width: 10%;
+    min-height: 10%;
+    border-radius: 50%;
+}
+.profile p{
+    font-size: large;
+    color: rgb(45, 68, 74);
+}
+.profile button{
+    background-color: rgb(45, 68, 74);
+    color: white;
+}
+.profile a{
+    background-color: rgb(45, 68, 74);
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.project{
+    margin-top: 10%;
+
+}
+.p1 h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    color: rgb(45, 68, 74);
+}
+.p1 p{
+    font-size: large;
+    color: rgb(45, 68, 74); 
+}
+.container{
+    margin-bottom: 50px;
+    margin: 0 auto;
+    width: 500px;
+} 
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: rgb(45, 68, 74); 
+}
+
+.about{
+    margin-top: 10%;
+}
+.about h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    color: rgb(45, 68, 74);
+}
+.about p{
+    font-family: "Montserrat", sans-serif; 
+    font-size: large;
+    color: rgb(45, 68, 74);
+    margin-bottom: 50px;
+}
+
+.contact{
+    margin-top: 10%;
+}
+.contact button{
+    font-size: 3rem;
+    color: white;
+    background-color:  rgb(45, 68, 74);
+} 
+.bottom-container{
+    background-color:  rgb(45, 68, 74);
+    margin-top: 5%;
+    padding: 70px 0 40px;
+    
+}
+.bottom-container a, p {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-size: large;
+}
+
+
+
+
+
+
